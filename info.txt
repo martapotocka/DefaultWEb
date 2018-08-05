@@ -8,10 +8,4 @@ Commit #67during squash
 
 Commit #8 during squash
 
-Commit $9
-
-Commit %10
-
-Commit %11
-
-Commit %12
+Commit %13
